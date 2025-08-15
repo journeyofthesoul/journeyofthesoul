@@ -41,3 +41,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠️ Skills
+
+### DevOps / SRE
+[![DevOps and SRE Skills](https://skillicons.dev/icons?i=kubernetes,docker,githubactions,jenkins,kafka)](https://skillicons.dev)
+
+### Languages / Frameworks
+[![Languages and Frameworks](https://skillicons.dev/icons?i=python,django,c,golang,js,html,css,bash)](https://skillicons.dev)
+
+### PaaS / SaaS / IaaS / Cloud
+[![PaaS / SaaS / IaaS / Cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
