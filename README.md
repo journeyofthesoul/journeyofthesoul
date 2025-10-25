@@ -5,27 +5,26 @@
 GET /julian HTTP/3
 ```
 
-Hello ! I'm Julian, a full-stack DevOps engineer. What do I even by that? It's a term I made up. 😄
+Hello ! I'm Julian — a full-stack DevOps engineer. What do I mean by that? Well… it’s a term I made up. 😄
 
-I'm interested in **everything** in the application engineering pipeline - circuit and firmware design, OS development, application / web development (backend/frontend),
-networking, cloud, on-premise server management, devops, automation, testing, monitoring, multi-vendor negotiations - you name it !
+I’m passionate about **every part** of the application engineering pipeline — from circuit and firmware design to OS development, web and application development (both backend and frontend), networking, cloud infrastructure, on-prem server management, DevOps, automation, testing, monitoring, even multi-vendor negotiations — you name it!
 
-While bulk of my professional career, including my current position, is in DevOps/SRE, I've had some experience in all my areas of interest, part through my educational background, and part as a hobbyist.
+While most of my professional experience (including my current role) lies in DevOps and SRE, I’ve had exposure to all these fields — partly through my education, and partly as a lifelong hobbyist.
 
-I believe that we should all work towards a world where everyone can follow their dreams and no one shackles chains on anyone.
+I believe we should all work toward a world where everyone can pursue their dreams freely — where no one places chains on anyone else.
+Engineers hold great power to help make that world a reality, and I want to contribute to that mission for as long as I live.
 
-Engineers have a strong power to contribute to that and I would like to take part in that grand mission so long as my soul inhabits my body.
+I’ve had this GitHub account since 2020, but barely touched it for a long time.
+I’ve always had ideas I wanted to build and share, but personal weaknesses held me back.
 
-I had this account since 2020 but almost never touched it. I've always had ideas, things I'd like to implement, build and work on but never got the chance to do so being held back by my personal weaknesses.
-After an epiphany on the hard problem of consciousness and the value of all human life, I've decided to give it all and become the best version of me so I may touch and help out those in need.
+After an epiphany about consciousness and the intrinsic value of every human life, I decided to give my all — to become the best version of myself and use my skills to help others.
 
-_This is my prime drive for learning, and becoming a skilled programmer which made me start and maintain my github seriously this year of 2025._ 
+_That realization is what drives me to learn, grow, and maintain this GitHub seriously since 2025._ 
 
-- 🔭 Please look at my work in Github and give me feedback !!
-- 👯 Please ask me to collaborate in your projects. The worse I could say is no. 
-I'm sure I will at least be super interested, but due to familial responsibilities I may reject having a key part.
-- 💬 Ask me about anything in life ! I may not be the wisest out there, but I have my own personal opinions on everything.
-- ⚡ Other things I like: Spicy Foods, Weight Training, Calisthenics, Bouldering
+- 🔭 Check out my projects here on GitHub — I’d love your feedback!
+- 👯 Feel free to invite me to collaborate on your projects! The worst I can say is no — and even then, I’ll probably be very interested. (I just might have to decline due to family responsibilities.)
+- 💬 Ask me anything — tech, life, philosophy, anything. I’m not the wisest person out there, but I always have an opinion.
+- ⚡ Other things I love: Spicy food 🌶️, weight training 🏋️, calisthenics 🤸, bouldering 🧗, rpg games 🎮.
 
 <!--
 **journeyofthesoul/journeyofthesoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
